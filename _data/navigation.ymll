@@ -1,0 +1,27 @@
+# main links ，hearder顶部页眉导航栏的主要链接
+main:
+  - title: Group 1
+    subfolderitems:
+      - page: "主页1"
+        url: /index.html
+      - page:  "主页2"
+        url: /index.html
+      - page:  "主页3"
+        url: /index.html  
+  - title: "Quick-Start Guide"
+    url: "https://anyohu.github.io/minimal-mistakes/docs/quick-start-guide/" # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: "https://anyohu.github.io/_pages/" # https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Sample Posts"
+    url: /year-archive/ #   url: tree/master/test/year-archive # /year-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
+  - title: "Sitemap"
+    url: /sitemap/
+  - title: "Tags"
+    url: /tags/
+  - title: "Pages"
+    url: /docs/page-archive/
+  - title: "External Link" # 外部链接
+    url: https://www.baidu.com
+    target: _blank
