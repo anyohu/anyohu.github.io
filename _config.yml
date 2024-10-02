@@ -32,11 +32,13 @@ breadcrumbs              : "flase" # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : "flase" # true, false (default)
 copyright                : "anyohu" # "copyright" name, defaults to site.title
-copyright_url            : "https://anyohu.github.io#" # "copyright" URL, defaults to site.url
+copyright_url            : "https://anyohu.github.io" # "copyright" URL, defaults to site.url
+
+# Comments 评论，使用以下评论插件需要申请账号密码
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "anyohu" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -62,17 +64,20 @@ comments:
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+# reCaptcha是Google公司的验证码服务，需申请账号、密码
 reCaptcha:
   siteKey                :
   secret                 :
+
+# 订阅插件，默认在网站根目录中生成的feed.xml
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+  path                   : "blank" # blank (default) uses feed.xml
+  hide                   : "false" # true, false (default)
+search                   : "true" # true, false (default) 启用站内搜索
+search_full_content      : "true" # true, false (default)
+search_provider          : "lunr" # 搜索引擎 lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : "true" # true, false (default) 默认搜索站内所有文章和文档的搜索索引
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -111,7 +116,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
+# Site Author 侧边栏作者信息
 author:
   name             : "Mr.HU"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
@@ -121,44 +126,44 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "https://www.zhihu.com/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.zhihu.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://www.zhihu.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.zhihu.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://www.zhihu.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.zhihu.com/"
 
-# Site Footer
+# Site Footer 页脚图标，链接
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://www.zhihu.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.zhihu.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://www.zhihu.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://www.zhihu.com/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://www.zhihu.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.zhihu.com/"
 
 
 # Reading Files
@@ -190,8 +195,8 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - /docs # ignore Minimal Mistakes /docs 忽视
+  - /test # ignore Minimal Mistakes /test 忽视
 keep_files:
   - .git
   - .svn
@@ -199,24 +204,24 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
+# Conversion 转换
+markdown: "kramdown"
+highlighter: "rouge"
+lsi: "false"
 excerpt_separator: "\n\n"
-incremental: false
+incremental: "false"
 
 
-# Markdown Processing
+# Markdown Processing  转换处理
 kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
+  input: "GFM"
+  hard_wrap: "false"
+  auto_ids: "true"
   footnote_nr: 1
-  entity_output: as_char
+  entity_output: "as_char"
   toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  smart_quotes: "lsquo,rsquo,ldquo,rdquo"
+  enable_coderay: "false"
 
 
 # Sass/SCSS
@@ -238,19 +243,19 @@ paginate_path: /page:num/
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 #   for configuration details
 pagination:
-  # Set enabled to true to use paginate v2
-  # enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 10
-  permalink: '/page/:num/'
-  title: ':title - page :num'
+  # Set enabled to true to use paginate v2 下面此处引号待确认
+  enabled: "true"
+  debug: "false"
+  collection: "posts"
+  per_page: 5
+  permalink: "/page/:num/"
+  title: ":title - page :num"
   limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  category: 'posts'
-  tag: ''
-  locale: ''
+  sort_field: "date"
+  sort_reverse: "true"
+  category: "posts"
+  tag: ""
+  locale: ""
   trail:
     before: 2
     after: 2
@@ -290,16 +295,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
@@ -318,8 +323,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      author_profile: "true"
+      read_time: "true"
+      comments: "true"
+      share: "true"
+      related: "true"
