@@ -16,6 +16,8 @@ layouts_gallery:
 last_modified_at: 2022-05-27T11:59:26-04:00
 ---
 
-123456
+<h3>关于我</h3>
 
-{% include layouts_gallery %}
+<h3>教育经历</h3>
+
+<h3>工作经历</h3>
