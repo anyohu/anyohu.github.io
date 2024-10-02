@@ -166,7 +166,7 @@ footer:
       url: "https://www.zhihu.com/"
 
 
-# Reading Files
+# Reading Files 读取文件，在include 和 exclude 文件中去修改
 include:
   - .htaccess
   - _pages
