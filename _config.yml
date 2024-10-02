@@ -26,7 +26,7 @@ url                      : https://anyohu.github.io # the base hostname & protoc
 baseurl                  : "/anyohu.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "anyohu/anyohu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/80x80.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : "flase" # true, false (default)
 words_per_minute         : 200
@@ -205,8 +205,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion 转换
-markdown: "kramdown"
-highlighter: "rouge"
+markdown: kramdown
+highlighter: rouge
 lsi: "false"
 excerpt_separator: "\n\n"
 incremental: "false"
@@ -214,25 +214,25 @@ incremental: "false"
 
 # Markdown Processing  转换处理
 kramdown:
-  input: "GFM"
+  input: GFM
   hard_wrap: "false"
   auto_ids: "true"
   footnote_nr: 1
   entity_output: "as_char"
   toc_levels: 1..6
-  smart_quotes: "lsquo,rsquo,ldquo,rdquo"
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: "false"
 
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: expanded # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
@@ -248,7 +248,7 @@ pagination:
   debug: "false"
   collection: "posts"
   per_page: 5
-  permalink: "/page/:num/"
+  permalink: "/page/:num/
   title: ":title - page :num"
   limit: 0
   sort_field: "date"
@@ -323,8 +323,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: "true"
+      read_time: "true"
+      comments: "true"
+      share: "true"
+      related: "true"
