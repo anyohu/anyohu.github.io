@@ -10,33 +10,35 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "anyohu/anyohu.github.io"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "anyohu" # 网站标题
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+subtitle                 : "Personal blog , love and share ." # 副标题 site tagline that appears below site title in masthead
+name                     : "anyohu"
+description              : "It's my Personal blog...An amazing website."
+url                      : "https://anyohu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/anyohu.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "anyohu/anyohu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/500x300.png"  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/80x80.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : "true" # true, false (default) 痕迹导航
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
-copyright                : # "copyright" name, defaults to site.title
+enable_copy_code_button  : "true" # true, false (default)
+copyright                : "anyohu" # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
+
+# Comments 评论，使用以下评论插件需要申请账号密码
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "anyohu" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -65,6 +67,9 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
+
+# 以上是各个评论插件
+# reCaptcha是Google公司的验证码服务，需申请账号、密码
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
