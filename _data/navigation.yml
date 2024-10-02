@@ -13,14 +13,15 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  - title: Group 1
-    subfolderitems:
-      - page: "百度"
-        url: www.baidu.com
-      - page:  "主页2"
-        url: /index.html
-      - page:  "主页3"
-        url: /index.html  
+    
+#  - title: Group 1
+#    subfolderitems:
+#      - page: "百度"
+#        url: www.baidu.com
+#      - page:  "主页2"
+#        url: /index.html
+#      - page:  "主页3"
+#        url: /index.html  
 
 # sidebar navigation list sample
 # sidebar-sample:
