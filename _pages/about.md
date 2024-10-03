@@ -18,7 +18,7 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 
 
 
->[!info]  About me
+>[!info] About me
 >> - I am a very extravagant man.
 
 
@@ -43,5 +43,5 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 >[!example] Awards 奖项
 >> - c4d
 
->[!example]  Languages 语言
+>[!example] Languages 语言
 >> - c4d
