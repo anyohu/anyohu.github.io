@@ -16,14 +16,13 @@ main:
   - title: "Search"
     url: /search/
     
-  - title: Group 1
+  - title: Group
 #    subfolderitems:
-      - page: "百度"
-        url: www.baidu.com
-      - page:  "主页2"
-        url: www.baidu.com
-      - page:  "主页3"
-        url: www.baidu.com 
+      - page: "pets"
+        url: /pets/
+      - page: "page-a"
+        url: /page-a/
+
 
 # sidebar navigation list sample
 # sidebar-sample:
