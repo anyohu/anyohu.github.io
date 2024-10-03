@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /about/
 title: "About"
+permalink: /about/
 excerpt: "About me."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
