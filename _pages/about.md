@@ -16,8 +16,32 @@ layouts_gallery:
 last_modified_at: 2022-05-27T11:59:26-04:00
 ---
 
-<h3>关于我</h3>
 
-<h3>教育经历</h3>
 
-<h3>工作经历</h3>
+>[!info]  **About me**
+>> - I am a very extravagant man.
+
+
+>[!example] **Education 教育**
+>> - 石羊镇中
+>> - 石羊七中
+>> - 四川警察大学
+
+
+>[!example] **Experiences 经历**
+>> - 民航
+>> - 海航
+>> - 基金
+
+
+>[!example] **Projects 项目**
+>> - [c4d]
+
+>[!example] **Skills 技能**
+>> - c4d
+
+>[!example] **Awards 奖项**
+>> - c4d
+
+>[!example]  **Languages 语言**
+>> - c4d
