@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "Learn More"
-      url: "/terms/"
+      url: "/pets/"
   caption: "Photo credit: [**Mr.hu**](https://unsplash.com)" # 起始页header图片 右下角字幕
 excerpt: "It's my Personal blog...An amazing website.."  # 起始页header图片 摘要
 intro: 
