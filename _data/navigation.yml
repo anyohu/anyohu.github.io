@@ -16,12 +16,12 @@ main:
   - title: "Search"
     url: /search/
     
-  - title: Group
+#  - title: Group
 #    subfolderitems:
-      - page: "pets"
-        url: /pets/
-      - page: "page-a"
-        url: /page-a/
+#      - page: "pets"
+#        url: /pets/
+#      - page: "page-a"
+#        url: /page-a/
 
 
 # sidebar navigation list sample
