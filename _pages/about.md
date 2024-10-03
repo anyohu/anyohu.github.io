@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: archive
 permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
@@ -15,3 +15,13 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2022-05-27T11:59:26-04:00
 ---
+
+# Header one about me
+
+## Header two
+
+
+
+> Stay hungry. Stay foolish.
+
+Multi line blockquote with a cite reference:
