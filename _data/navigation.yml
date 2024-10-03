@@ -3,27 +3,27 @@ main:
   - title: "Home"
     url: /splash-page/
 #    target: _blank
+  - title: "Tags"
+    url: /tags/
   - title: "Posts"
     url: /year-archive/
   - title: "Collections"
     url: /categories/
   - title: "Sitemap"
     url: /sitemap/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /About/
   - title: "Search"
     url: /search/
     
-#  - title: Group 1
+  - title: Group 1
 #    subfolderitems:
-#      - page: "百度"
-#        url: www.baidu.com
-#      - page:  "主页2"
-#        url: /index.html
-#      - page:  "主页3"
-#        url: /index.html  
+      - page: "百度"
+        url: www.baidu.com
+      - page:  "主页2"
+        url: www.baidu.com
+      - page:  "主页3"
+        url: www.baidu.com 
 
 # sidebar navigation list sample
 # sidebar-sample:
