@@ -15,9 +15,3 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2022-05-27T11:59:26-04:00
 ---
-
-
-
-About me
-
-I am a very extravagant man.
