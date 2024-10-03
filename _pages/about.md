@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: splash
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "About me."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -20,8 +20,5 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 
 ## Header two
 
-
-
-> Stay hungry. Stay foolish.
 
 Multi line blockquote with a cite reference:
