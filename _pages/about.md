@@ -1,5 +1,5 @@
 ---
-permalink: /about.html
+permalink: /about/
 title: "About"
 excerpt: "这是我的个人博客,摘录."
 layouts_gallery:
