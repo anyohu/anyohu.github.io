@@ -17,6 +17,4 @@ toc: true
 
 ---
 
- :smile:
-
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
