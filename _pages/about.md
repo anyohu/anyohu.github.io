@@ -18,14 +18,16 @@ toc: true
 
 ---
 
+[Mr.hu](assets\images\bio-photo.jpg)
+{: .notice}
 
+***
 >**Education 教育**
 >> - 镇中
 >> - 七中
 >> - 大学
 {: .notice}
 
-***
 >**Experiences 经历**
 >> - 民航
 >> - 海航
@@ -42,8 +44,6 @@ toc: true
 
 >**Awards 奖项**
 >> - c4d
-{: .notice}
-
 >**Languages  语言**
 >> - c4d
 {: .notice}
