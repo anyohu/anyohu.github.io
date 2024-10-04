@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 permalink: /about/
 title: "About"
 excerpt: "这是我的个人博客,摘录."
@@ -13,12 +13,10 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
+last_modified_at: 2024-10-03T10:59:26-04:00
 toc: true
 
 ---
-
->[!info]  **About me**
 
 
 >[!example] Education 教育
