@@ -71,9 +71,8 @@ author_profile: true
 ***
 
 ## **Languages**
-
-- Chinese
-- English
+>- Chinese
+>- English
 {: .notice}
 
 ***
