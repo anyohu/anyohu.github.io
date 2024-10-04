@@ -19,9 +19,9 @@ toc: true
 ---
 
 [Mr.hu](assets\images\bio-photo.jpg)
-{: .notice}
 
 ***
+
 >**Education 教育**
 >> - 镇中
 >> - 七中
@@ -47,6 +47,9 @@ toc: true
 >**Languages  语言**
 >> - c4d
 {: .notice}
+
+>[!note] 语言
+
 
 ***
 
