@@ -20,7 +20,7 @@ toc: true
 
 ***
 
->**Authour**
+**Authour**
 
 > - 姓名：Mr.hu
 > - 性别：男
@@ -30,7 +30,7 @@ toc: true
 
 ***
 
->**Education**
+**Education**
 
 > - 镇中
 > - 七中
@@ -39,7 +39,7 @@ toc: true
 
 ***
 
->**Experiences**
+**Experiences**
 
 > - 民航
 > - 海航
@@ -48,14 +48,14 @@ toc: true
 
 ***
 
->**Projects**
+**Projects**
 
 > - [c4d](https://github.com/anyohu/image/blob/main/anyo.jpg)
 {: .notice}
 
 ***
 
->**Skills**
+**Skills**
 
 > - CSS
 > - C++
@@ -63,13 +63,14 @@ toc: true
 
 ***
 
->**Awards**
+**Awards**
 
 > - 诺贝尔文学
+{: .notice}
 
 ***
 
->**Languages**
+**Languages**
 
 > - Chinese
 > - English
