@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /about/
 title: "About"
 excerpt: "这是我的个人博客,摘录."
