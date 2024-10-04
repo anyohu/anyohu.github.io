@@ -18,10 +18,10 @@ toc: true
 
 ---
 
->**Education 教育**
->> - 镇中
->> - 七中
->> - 大学
+**Education 教育**
+> - 镇中
+> - 七中
+> - 大学
 {: .notice}
 
 >**Experiences 经历**
