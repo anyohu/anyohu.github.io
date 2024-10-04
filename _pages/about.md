@@ -64,7 +64,6 @@ author_profile: true
 ***
 
 ## **Awards**
-
 > - 诺贝尔文学
 {: .notice}
 
