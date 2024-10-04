@@ -19,12 +19,13 @@ toc: true
 ---
 
 **Education 教育**
+
 > - 镇中
 > - 七中
 > - 大学
 {: .notice}
 
->**Experiences 经历**
+**Experiences 经历**
 >> - 民航
 >> - 海航
 >> - 基金
@@ -44,7 +45,7 @@ toc: true
 >> - c4d
 {: .notice}
 
->[!note] 语言
+
 
 >语言
 
