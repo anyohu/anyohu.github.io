@@ -20,15 +20,16 @@ toc: true
 
 
 >**Education 教育**
->> - 石羊镇中
->> - 石羊七中
->> - 四川警察大学
+>> - 镇中
+>> - 七中
+>> - 大学
 {: .notice}
 
+***
 >**Experiences 经历**
 >> - 民航
 >> - 海航
- >> - 基金
+>> - 基金
 {: .notice}
 
 >**Projects 项目**
@@ -46,6 +47,8 @@ toc: true
 >**Languages  语言**
 >> - c4d
 {: .notice}
+
+***
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 {: .notice}
