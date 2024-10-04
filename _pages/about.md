@@ -18,10 +18,6 @@ toc: true
 
 ---
 
-[Mr.hu](assets\images\bio-photo.jpg)
-
-***
-
 >**Education 教育**
 >> - 镇中
 >> - 七中
@@ -35,7 +31,7 @@ toc: true
 {: .notice}
 
 >**Projects 项目**
->> - [c4d](obsidian://open?vault=HU%20OB%20DEME&file=attachment%2F34B259C9.png)
+>> - [c4d](https://github.com/anyohu/image/blob/main/anyo.jpg)
 {: .notice}
 
 >**Skills 技能**
@@ -49,6 +45,8 @@ toc: true
 {: .notice}
 
 >[!note] 语言
+
+>语言
 
 
 ***
