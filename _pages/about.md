@@ -18,37 +18,62 @@ toc: true
 
 ---
 
-**Education 教育**
+***
+
+>**Authour**
+
+> - 姓名：Mr.hu
+> - 性别：男
+> - 年龄：保密
+> - 籍贯：中国
+{: .notice}
+
+***
+
+>**Education**
 
 > - 镇中
 > - 七中
 > - 大学
 {: .notice}
 
-**Experiences 经历**
->> - 民航
->> - 海航
->> - 基金
+***
+
+>**Experiences**
+
+> - 民航
+> - 海航
+> - 基金
 {: .notice}
 
->**Projects 项目**
->> - [c4d](https://github.com/anyohu/image/blob/main/anyo.jpg)
+***
+
+>**Projects**
+
+> - [c4d](https://github.com/anyohu/image/blob/main/anyo.jpg)
 {: .notice}
 
->**Skills 技能**
->> - c4d
+***
+
+>**Skills**
+
+> - CSS
+> - C++
 {: .notice}
 
->**Awards 奖项**
->> - c4d
->**Languages  语言**
->> - c4d
+***
+
+>**Awards**
+
+> - 诺贝尔文学
+
+***
+
+>**Languages**
+
+> - Chinese
+> - English
 {: .notice}
-
-
-
->语言
-
 
 ***
 
