@@ -12,7 +12,7 @@ main:
   - title: "Sitemap"
     url: /sitemap/
   - title: "About"
-    url: /About/
+    url: /search/
   - title: "Search"
     url: /search/
     
