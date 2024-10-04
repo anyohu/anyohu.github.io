@@ -19,28 +19,33 @@ toc: true
 ---
 
 
->[!example] Education 教育
+>**Education 教育**
 >> - 石羊镇中
 >> - 石羊七中
 >> - 四川警察大学
+{: .notice}
 
-
->[!example] Experiences 经历
+>**Experiences 经历**
 >> - 民航
 >> - 海航
  >> - 基金
+{: .notice}
 
-
->[!example] Projects 项目
+>**Projects 项目**
 >> - [c4d](obsidian://open?vault=HU%20OB%20DEME&file=attachment%2F34B259C9.png)
+{: .notice}
 
->[!example] Skills 技能
+>**Skills 技能**
 >> - c4d
+{: .notice}
 
->[!example] Awards 奖项
+>**Awards 奖项**
 >> - c4d
+{: .notice}
 
->[!example]  Languages  语言
+>**Languages  语言**
 >> - c4d
+{: .notice}
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+{: .notice}
