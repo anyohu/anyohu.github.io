@@ -85,5 +85,7 @@ search: false
 
 ***
 
+## **Life photos**
+
 {% include gallery id="layouts_gallery" caption="Life photos." %}
 {: .notice}
