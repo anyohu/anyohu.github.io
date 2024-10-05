@@ -42,7 +42,7 @@ search: false
 > - 镇中
 > - 七中
 > - 大学
-{: .notice}
+{: .notice--success}
 
 ***
 
@@ -51,14 +51,14 @@ search: false
 > - 民航
 > - 海航
 > - 基金
-{: .notice}
+{: .notice--success}
 
 ***
 
 ## **Projects**
 
 > - c4d
-{: .notice}
+{: .notice--success}
 
 ***
 
@@ -68,20 +68,20 @@ search: false
 > - C++
 > - js
 > - python
-{: .notice}
+{: .notice--success}
 
 ***
 
 ## **Awards**
 > - 文学
-{: .notice}
+{: .notice--success}
 
 ***
 
 ## **Languages**
 >- Chinese
 >- English
-{: .notice}
+{: .notice--success}
 
 ***
 
