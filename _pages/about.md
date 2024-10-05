@@ -21,6 +21,9 @@ author_profile: true
 
 ***
 
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-300x200.jpg){: .align-right}
+
+
 ## **Authour**
 
 > - 姓名：Mr.hu
