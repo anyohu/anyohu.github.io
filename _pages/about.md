@@ -87,4 +87,4 @@ search: false
 
 ## **Life photos**
 
-{% include gallery id="layouts_gallery" class="full" caption="Life photos." %}{: .notice--success}
+{% include gallery id="layouts_gallery" caption="Life photos." %}{: .notice--success}
