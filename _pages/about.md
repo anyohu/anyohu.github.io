@@ -2,17 +2,17 @@
 layout: archive
 permalink: /about/
 title: "About"
-excerpt: "这是我的个人博客,摘录."
+excerpt: "这是我的个人博客."
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
+  - url: /assets/images/about-1.JPEG
+    image_path: /assets/images/about-1.JPEG
+    alt: "Life photos"
+  - url: /assets/images/about-2.JPEG
+    image_path: /assets/images/about-2.JPEG
+    alt: "Life photos"
+  - url: /assets/images/about-3.JPEG
+    image_path: /assets/images/about-3.JPEG
+    alt: "Life photos"
 last_modified_at: 2024-10-03T10:59:26-04:00
 toc: true
 author_profile: true
@@ -85,5 +85,5 @@ search: false
 
 ***
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+{% include gallery id="layouts_gallery" caption="Life photos." %}
 {: .notice}
