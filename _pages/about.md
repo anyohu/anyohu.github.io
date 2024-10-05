@@ -21,7 +21,7 @@ author_profile: true
 
 ***
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/bio-3.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/boi-3.jpg){: .align-right}
 
 ## **Authour**
 
