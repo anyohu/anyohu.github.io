@@ -66,12 +66,14 @@ search: false
 
 > - CSS
 > - C++
+> - js
+> - python
 {: .notice}
 
 ***
 
 ## **Awards**
-> - 诺贝尔文学
+> - 文学
 {: .notice}
 
 ***
