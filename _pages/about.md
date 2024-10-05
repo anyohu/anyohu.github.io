@@ -21,9 +21,10 @@ author_profile: true
 
 ***
 
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg){: .align-right}
+
 ## **Authour**
 
->![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg){: .align-right}
 > - 姓名：Mr.hu
 > - 性别：男
 > - 年龄：保密
