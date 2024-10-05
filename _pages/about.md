@@ -4,7 +4,7 @@ permalink: /about/
 title: "About"
 excerpt: "这是我的个人博客."
 layouts_gallery:
-  - url: 
+  - url: /assets/images/about-1.JPEG
     image_path: /assets/images/about-1.JPEG
     alt: "Life photos"
   - url: /assets/images/about-2.JPEG
@@ -87,4 +87,4 @@ search: false
 
 ## **Life photos**
 
-{% include gallery id="layouts_gallery" caption="Life photos." %}{: .notice--success}
+{% raw %}{% include gallery id="layouts_gallery" caption="Life photos." %}{% endraw %}{: .notice--success}
