@@ -4,15 +4,11 @@ categories:
   - law
 tags:
   - law
-  - title
-  - Markdown
-  - post
 toc: true
 toc_sticky: true
 ---
 
 
-![anyohu](https://raw.githubusercontent.com/anyohu/image/main/anyo.png)
 # 公司的概念和特征
 
 1. 概念
