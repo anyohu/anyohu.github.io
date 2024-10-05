@@ -33,7 +33,7 @@ search: false
 > - 性别：男
 > - 年龄：保密
 > - 籍贯：中国北京
-{: .notice}
+{: .notice--info}
 
 ***
 
