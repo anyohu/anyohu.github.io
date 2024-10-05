@@ -57,7 +57,7 @@ search: false
 
 ## **Projects**
 
-> - [c4d](https://github.com/anyohu/image/blob/main/anyo.jpg)
+> - c4d
 {: .notice}
 
 ***
