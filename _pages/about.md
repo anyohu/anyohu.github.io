@@ -21,9 +21,9 @@ author_profile: true
 
 ***
 
-<figure style="width: 165px" class="align-right">
+<figure style="width: 168px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/boi-3.jpg" alt="">
-  <figcaption>This is a handsome boy.</figcaption>
+  <figcaption> </figcaption>
 </figure> 
 
 ## **Authour**
