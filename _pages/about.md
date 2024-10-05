@@ -21,7 +21,10 @@ author_profile: true
 
 ***
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/boi-3.jpg){: .align-right}
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/boi-3.jpg" alt="">
+  <figcaption>Mr.hu</figcaption>
+</figure> 
 
 ## **Authour**
 
