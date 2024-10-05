@@ -21,14 +21,16 @@ author_profile: true
 
 ***
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-300x200.jpg){: .align-right}
-
-
 ## **Authour**
 
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-300x200.jpg){: .align-right}
+
 > - 姓名：Mr.hu
+>
 > - 性别：男
+>
 > - 年龄：保密
+>
 > - 籍贯：中国北京
 {: .notice}
 
