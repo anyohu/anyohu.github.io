@@ -16,6 +16,7 @@ layouts_gallery:
 last_modified_at: 2024-10-03T10:59:26-04:00
 toc: true
 author_profile: true
+search: false
 ---
 
 
