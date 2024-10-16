@@ -58,7 +58,6 @@ search: false
 ## **Projects**
 
 > - c4d
-> - c4d
 {: .notice--success}
 
 ***
