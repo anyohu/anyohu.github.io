@@ -4,6 +4,9 @@ permalink: /about/
 title: "About"
 excerpt: "这是我的个人博客."
 layouts_gallery:
+  - url: /assets/images/about-3.JPEG
+    image_path: /assets/images/about-3.JPEG
+    alt: "Life photos"
   - url: /assets/images/about-2.JPEG
     image_path: /assets/images/about-2.JPEG
     alt: "Life photos"
